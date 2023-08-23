@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 import "./index.css";
 
-
+//remove the commented part to use this code as timer
 const App = ()=> {
 
 //   const [count, setCount] = useState(0);
